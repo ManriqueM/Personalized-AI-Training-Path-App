@@ -1,0 +1,6 @@
+{
+  "name": "PathAI - Personalized AI Learning Path Builder",
+  "description": "Adaptive AI learning roadmap generator that assesses your knowledge level, tailors free high-quality resources in English & Spanish, and provides concise structured roadmaps with actionable links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
